@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![:name](https://count.getloli.com/@:MATHIP6)
+
 <!--
 **MATHIP6/MATHIP6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
